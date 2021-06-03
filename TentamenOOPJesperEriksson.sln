@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TentamenOOPJesperEriksson", "TentamenOOPJesperEriksson\TentamenOOPJesperEriksson.csproj", "{AB18E6A6-BB6D-4A7B-9161-EEA67E4E0F4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackEndLibrary", "BackEndLibrary\BackEndLibrary.csproj", "{5B57DFDB-1D53-474D-892D-6E1BF6C9D093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB18E6A6-BB6D-4A7B-9161-EEA67E4E0F4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB18E6A6-BB6D-4A7B-9161-EEA67E4E0F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB18E6A6-BB6D-4A7B-9161-EEA67E4E0F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB18E6A6-BB6D-4A7B-9161-EEA67E4E0F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B57DFDB-1D53-474D-892D-6E1BF6C9D093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B57DFDB-1D53-474D-892D-6E1BF6C9D093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B57DFDB-1D53-474D-892D-6E1BF6C9D093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B57DFDB-1D53-474D-892D-6E1BF6C9D093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9F1162F-4470-4624-AD52-F51ECCB1BFC5}
+	EndGlobalSection
+EndGlobal
